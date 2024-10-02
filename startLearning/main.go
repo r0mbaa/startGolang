@@ -73,7 +73,7 @@ func quadricEquation() {
 	var x1, x2 float64
 
 	fmt.Println("The formula is ax^2 + bx + c = 0\n" +
-		"for example 5x^2 + 2x + 2 = 0")
+		"for example x^2 + x - 6 = 0")
 
 	fmt.Printf("Enter the a : ")
 	fmt.Scanln(&a)
